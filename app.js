@@ -1,6 +1,6 @@
 //set countdown date
 
-let countDownDate = new Date(`December 31, 2021 23:59:59`).getTime();
+let countDownDate = new Date(`December 31, 2022 23:59:59`).getTime();
 
 let countDownTimer = setInterval(() => {
   //set present date
